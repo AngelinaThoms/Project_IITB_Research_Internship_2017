@@ -1,0 +1,10 @@
+ABSTRACT
+
+Evaluation of Structural Dynamics and conservation of function of Kinesin-II stalk across evolutionarily related species
+
+The microtubule-based transport system of kinesin motor proteins represents an excellent tool for the analysis of mechanisms, drugs and toxins, particularly for diseases affecting neurons because of their exquisite dependence on motors. Consistent with the motor and mitotic functions of kinesins, most disease-related aspects wherein physiological cargoes are not delivered appropriately by clogging of axonal transport and in cases where non-physiological cargoes make use of the transport system in viruses causing kinesins participating in mitosis effective as drug targets in cancer chemotherapy.
+
+The comparative analysis of the KLP64D and KLP68D kinesin-II stalk researched earlier showed the coiled coil interaction between the C-terminal stalks of motor subunits is held together through a few hydrophobic and charged interactions whereas the N-terminal stalk segments are flexible and could uncoil reversibly during a motor walk which needs to be elucidated further with analysis in MD simulations.
+
+Performing implicit simulations depicted that the control sample Tropomyosin (1C1G) showed significant structural differences that contradicted the computational studies carried earlier whereas the experimental sample Homo sapiens (HsKIF3A/HsKIF3B) depicted a result of unfolding and refolding at 10ns to 12ns showing the conservation of function of structures. Further analysis and investigation using explicit MD simulations of the N-Terminal coiled-coil regions of the Kinesin-II stalk would lead to promising leads in designing drug candidates.
+
